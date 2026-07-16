@@ -30,7 +30,7 @@ pip3 --version
 
 Homebrew keeps Python up to date independently of macOS updates, and `brew upgrade python` will bump it going forward.
 
-## Option 2: pyenv (best for managing multiple versions)
+## Option 2: pyenv (for managing multiple versions)
 
 If you need to switch between Python versions across projects, [pyenv](https://github.com/pyenv/pyenv) is a better fit.
 
