@@ -4,5 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I'm Ritwik, a software engineer based in the SF Bay Area.
+
+I write about tech, tutorials, and AI — mostly things I've learned or built and wanted to write down.
+
+Feel free to reach out via the links in the sidebar.
